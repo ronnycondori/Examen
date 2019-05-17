@@ -40,6 +40,7 @@ public class Categorias {
             inc++;
             Total = valor1 + valor2 + valor3;
         }
+        System.out.println("Ejercicio 1");
         System.out.println("El impuesto a pagar del vehiculo calve 1, es: " + valor1);
         System.out.println("El impuesto a pagar del vehiculo calve 2, es: " + valor2);
         System.out.println("El impuesto a pagar del vehiculo calve 3, es: " + valor3);
